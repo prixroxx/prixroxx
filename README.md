@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there. Welcome to my Github profile. 👋
 
+[![Prashant's Holopin badges](https://holopin.me/prixroxx)](https://holopin.io/@prixroxx)
 <!--
 **prixroxx/prixroxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
