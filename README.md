@@ -2,6 +2,13 @@
 
 ![Prashant Kumar](name.svg)
 
+- :telescope: I’m working as a Software Engineer and contributing as a full stack developer for building web applications.
+
+- :seedling: Exploring Open Source. Trying to be active on GitHub.
+
+- :zap: In my free time, I love to read tech articles and learn new technologies.
+
+
 [![Prashant's Holopin badges](https://holopin.me/prixroxx)](https://holopin.io/@prixroxx)
 
 ![My Tech Stack on GitHub](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%23282A36&badge=%23343746&border=%23343746&titleColor=%23BD93F9&line1=Python%2CPython%2Cc8c930%3BCsharp%2CCsharp%2C389244%3B)
