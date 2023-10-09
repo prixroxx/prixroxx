@@ -1,4 +1,4 @@
-### Hi there. Welcome to my Github profile. 👋
+## Hi there. Welcome to my Github profile. 👋
 
 ![Prashant Kumar](name.svg)
 
@@ -10,28 +10,28 @@
 
 ---
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prixroxx&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prixroxx&layout=compact&theme=vision-friendly-dark)](https://github.com/prixroxx/github-readme-stats)
 
 ---
-### 🛰️ My Tech Stack
+## 🛰️ My Tech Stack
 
-## 💻 BackEnd
+### 💻 BackEnd
 ![Static Badge](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.Net)
 ![Static Badge](https://img.shields.io/badge/-Python-ECD53F?logo=python)
 ![Static Badge](https://img.shields.io/badge/-C%20Sharp-007054?logo=C%20Sharp)
 
-## 🌩️ Cloud and Containerisation
+### 🌩️ Cloud and Containerisation
 ![Static Badge](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazonaws)
 ![Static Badge](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/-MinIO-C72E49?logo=minio)
 ![Static Badge](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka)
 
-## 📱 FrontEnd
+### 📱 FrontEnd
 ![Static Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=004027)
 ![Static Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=FFFF66)
 ![Static Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=%23FFFFFF)
