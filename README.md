@@ -2,9 +2,9 @@
 
 ![Prashant Kumar](name.svg)
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%23282A36&badge=%23343746&border=%23343746&titleColor=%23BD93F9&line1=Python%2CPython%2Cc8c930%3BDocker%2CDocker%2C333a9f%3BKubernetes%2CKubernetes%2C671c1c%3BJavascript%2CJavascript%2Cd5f206%3BCsharp%2CCsharp%2C389244%3B)
-
 [![Prashant's Holopin badges](https://holopin.me/prixroxx)](https://holopin.io/@prixroxx)
+
+![My Tech Stack on GitHub](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%23282A36&badge=%23343746&border=%23343746&titleColor=%23BD93F9&line1=Python%2CPython%2Cc8c930%3BCsharp%2CCsharp%2C389244%3B)
 <!--
 **prixroxx/prixroxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
