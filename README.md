@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=prixroxx.prixroxx)
 ## Hi there. Welcome to my Github profile. 👋
 
 ![Prashant Kumar](name.svg)
