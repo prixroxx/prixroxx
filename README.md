@@ -15,7 +15,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prixroxx&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prixroxx&layout=compact&theme=vision-friendly-dark)](https://github.com/prixroxx/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prixroxx&layout=donut&theme=vision-friendly-dark)](https://github.com/prixroxx/github-readme-stats)
+<!--![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prixroxx&hide=contribs,prs&theme=vision-friendly-dark)-->
 
 ---
 ## 🛰️ My Tech Stack
