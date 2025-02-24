@@ -3,7 +3,7 @@
 
 ![Prashant Kumar](name.svg)
 
-- :telescope: I’m working as a Software Engineer and contributing as a full stack developer for building web applications.
+- :telescope: I’m working as a Software Architect, Data Scientist and a full stack developer for building web applications.
 
 - :seedling: Exploring Open Source. Trying to be active on GitHub.
 
