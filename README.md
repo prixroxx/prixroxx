@@ -22,29 +22,29 @@
 ## 🛰️ My Tech Stack
 
 ### 🤖 AI Stack
-![Static Badge](https://img.shields.io/badge/-LangChain%20AWS-232F3E?logo=langchain&logoColor=7FC8FF?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-LangGraph-326CE5?logo=langgraph&logoColor=1C3C3C?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-LangFlow-2496ED?logo=langflow&logoColor=000000?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-CrewAI-C72E49?logo=crewai&logoColor=FF5A50?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-ClaudeCode-231F20?logo=claude&logoColor=D97757?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-Gemini-C72E49?logo=googlegemini&logoColor=8E75B2?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-LangChain%20AWS-232F3E?logo=langchain&logoColor=7FC8FF&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-LangGraph-326CE5?logo=langgraph&logoColor=1C3C3C&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-LangFlow-2496ED?logo=langflow&logoColor=000000&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-CrewAI-C72E49?logo=crewai&logoColor=FF5A50&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-ClaudeCode-231F20?logo=claude&logoColor=D97757&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-Gemini-C72E49?logo=googlegemini&logoColor=8E75B2&style=for-the-badge)
 
 ### 💻 BackEnd
-![Static Badge](https://img.shields.io/badge/-Python-ECD53F?logo=python?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.Net?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-C%20Sharp-007054?logo=C%20Sharp?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-Python-ECD53F?logo=python&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.Net&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-C%20Sharp-007054?logo=C%20Sharp&style=for-the-badge)
 
 ### 🌩️ Cloud and Containerisation
-![Static Badge](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazonaws?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes&logoColor=FFFFFF?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFFFFF?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-MinIO-C72E49?logo=minio?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazonaws&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes&logoColor=FFFFFF&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFFFFF&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-MinIO-C72E49?logo=minio&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&style=for-the-badge)
 
 ### 📱 FrontEnd
-![Static Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=004027?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=FFFF66?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=css&logoColor=663399?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=004027&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=FFFF66&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=css&logoColor=663399&style=for-the-badge)
 
 ---
 
