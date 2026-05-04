@@ -15,15 +15,23 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prixroxx&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prixroxx&layout=donut&theme=vision-friendly-dark)](https://github.com/prixroxx/github-readme-stats)
-<!--![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prixroxx&hide=contribs,prs&theme=vision-friendly-dark)-->
+<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prixroxx&layout=donut&theme=vision-friendly-dark)](https://github.com/prixroxx/github-readme-stats)
+[![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prixroxx&hide=contribs,prs&theme=vision-friendly-dark)-->
 
 ---
 ## 🛰️ My Tech Stack
 
+### 🤖 AI Stack
+![Static Badge](https://img.shields.io/badge/-LangChain%20AWS-232F3E?logo=langchain&logoColor=7FC8FF)
+![Static Badge](https://img.shields.io/badge/-LangGraph-326CE5?logo=langgraph&logoColor=1C3C3C)
+![Static Badge](https://img.shields.io/badge/-LangFlow-2496ED?logo=langflow&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/-CrewAI-C72E49?logo=crewai&logoColor=FF5A50)
+![Static Badge](https://img.shields.io/badge/-ClaudeCode-231F20?logo=claude&logoColor=D97757)
+![Static Badge](https://img.shields.io/badge/-Gemini-C72E49?logo=googlegemini&logoColor=8E75B2)
+
 ### 💻 BackEnd
-![Static Badge](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.Net)
 ![Static Badge](https://img.shields.io/badge/-Python-ECD53F?logo=python)
+![Static Badge](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.Net)
 ![Static Badge](https://img.shields.io/badge/-C%20Sharp-007054?logo=C%20Sharp)
 
 ### 🌩️ Cloud and Containerisation
@@ -36,7 +44,7 @@
 ### 📱 FrontEnd
 ![Static Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=004027)
 ![Static Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=FFFF66)
-![Static Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=css&logoColor=663399)
 
 ---
 
